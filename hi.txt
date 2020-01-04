@@ -6,3 +6,5 @@ git push -u origin master
 
 thanks :)
 hihiih
+
+my seperate branch
